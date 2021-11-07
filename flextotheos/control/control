@@ -1,0 +1,12 @@
+Package: flex to theos
+Name: Flex To Theos
+Version: 0.5
+Architecture: iphoneos-arm
+Description: Turn Flex 3 patches into Theos projects
+Depiction: null
+SileoDepiction: null
+Author: Ethan Blair
+Section: System
+Depends: mobilesubstrate
+Maintainer: ceadd
+Tag: compatible_min::ios11, compatible_max::ios13
